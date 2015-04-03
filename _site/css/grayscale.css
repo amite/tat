@@ -9,7 +9,7 @@ body {
     height: 100%;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #fff;
-    background-color: #000;
+    background-color: #28464F;
 }
 
 html {
@@ -66,7 +66,7 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #000;
+    background-color: #64686A;
 }
 
 .navbar-custom .navbar-brand {
@@ -136,7 +136,7 @@ a:focus {
     .navbar-custom.top-nav-collapse {
         padding: 0;
         border-bottom: 1px solid rgba(255,255,255,.3);
-        background: #000;
+        background: #64686A;
     }
 }
 
@@ -148,7 +148,7 @@ a:focus {
     text-align: center;
     color: #fff;
     background: url(../img/edge.jpg) no-repeat bottom center scroll;
-    background-color: #000;
+    background-color: #64686A;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -266,7 +266,7 @@ a:focus {
     padding: 50px 0;
     color: #fff;
     background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
-    background-color: #000;
+    background-color: #64686A;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
